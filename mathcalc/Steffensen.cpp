@@ -1,4 +1,4 @@
-#include "Steffensen.h"
+#include "math_func.h"
 
 void steffensen()
 {

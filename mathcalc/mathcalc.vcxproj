@@ -126,11 +126,13 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="Dichotomy.cpp" />
     <ClCompile Include="main.cpp" />
+    <ClCompile Include="NewtonMethod.cpp" />
     <ClCompile Include="Steffensen.cpp" />
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="Steffensen.h" />
+    <ClInclude Include="math_func.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
