@@ -1,12 +1,10 @@
-//#include <iostream>
-//#include <Eigen/Dense>
 #include "math_func.h"
 
 //using Eigen::MatrixXd;
 
 void main()
 {
-	MullerMethod();
+	NewtonMethod_2Elements();
 	//MatrixXd m(2, 2);
 	//m(0, 0) = 3;
 	//m(1, 0) = 2.5;
