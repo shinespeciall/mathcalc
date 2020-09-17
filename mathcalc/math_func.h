@@ -8,3 +8,5 @@ constexpr auto num_e = 2.718281828459045;
 void steffensen();
 void NewtonMethod();
 void Dichotomy();
+void ChordMethod();
+void MullerMethod();

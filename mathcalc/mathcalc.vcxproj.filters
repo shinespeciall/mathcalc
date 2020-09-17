@@ -27,6 +27,12 @@
     <ClCompile Include="Dichotomy.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="ChordMethod.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="MullerMethod.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="math_func.h">
