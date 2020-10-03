@@ -129,6 +129,7 @@
     <ClCompile Include="ChordMethod.cpp" />
     <ClCompile Include="Dichotomy.cpp" />
     <ClCompile Include="main.cpp" />
+    <ClCompile Include="MatrixIterationFunctions.cpp" />
     <ClCompile Include="MullerMethod.cpp" />
     <ClCompile Include="NewtonMethod.cpp" />
     <ClCompile Include="Steffensen.cpp" />

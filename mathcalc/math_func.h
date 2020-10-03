@@ -13,3 +13,5 @@ void NewtonMethod_2Elements();
 void Dichotomy();
 void ChordMethod();
 void MullerMethod();
+void JacobiIteration();
+void GSIteration();
